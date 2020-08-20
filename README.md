@@ -1,3 +1,8 @@
+# Projects
+[Silas Web](https://peterplays.github.io/silas-website)
+[Spanish Flashcards](https://peterplays.github.io/spanish-flashcards)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/peterplays/peterplays.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
