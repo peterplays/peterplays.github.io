@@ -2,7 +2,7 @@
 * [Silas Web](https://peterplays.github.io/silas-website)
 * [Spanish Flashcards](https://peterplays.github.io/Spanish-Flashcards)
 * [Workout Generator](https://peterplays.github.io/Workout-Generator)
-* [Mondrian CSS Grid](https://peterplays.github.io/)Mondrian-CSS-Grid)
+* [Mondrian CSS Grid](https://peterplays.github.io/Mondrian-CSS-Grid)
 * [Guitarist Picks and Strings DB](https://peterplays.github.io/Guitarist-Picks-Strings)
 * [Hair Stylist Portfolio Site](https://peterplays.github.io/Hairstylist)
 
