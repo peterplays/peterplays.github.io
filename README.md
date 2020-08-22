@@ -1,6 +1,7 @@
 # Projects
 * [Silas Web](https://peterplays.github.io/silas-website)
 * [Spanish Flashcards](https://peterplays.github.io/Spanish-Flashcards)
+* [Workout Generator](https://peterplays.github.io/Workout-Generator)
 
 
 ## Welcome to GitHub Pages
