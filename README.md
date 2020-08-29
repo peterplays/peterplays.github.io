@@ -5,6 +5,7 @@
 * [Mondrian CSS Grid](https://peterplays.github.io/Mondrian-CSS-Grid)
 * [Guitarist Picks and Strings DB](https://peterplays.github.io/Guitarist-Picks-Strings)
 * [Hair Stylist Portfolio Site](https://peterplays.github.io/Hairstylist)
+* [Coding Cheat Sheets](https://peterplays.github.io/cheatsheets)
 
 
 ## Welcome to GitHub Pages
