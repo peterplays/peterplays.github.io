@@ -10,7 +10,8 @@
 ## Education, Training, Certifications
 * [Treehouse](https://www.teamtreehouse.com) Front End Web Development Track Certificate
 * [SoloLearn](https://www.sololearn.com) HTML, CSS, and JavaScript fundamentals Certificates
-* ![Image](CSS Certification SoloLearn.pdf)
+* ![Image](media/CSS Certification SoloLearn.pdf)
+* ![Image}(media/CSS-Certification-SoloLearn.pdf)
 * Apple Swift Playgrounds
 
 ## Welcome to GitHub Pages
