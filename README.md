@@ -7,6 +7,10 @@
 * [Hair Stylist Portfolio Site](https://peterplays.github.io/Hairstylist)
 * [Coding Cheat Sheets](https://peterplays.github.io/cheatsheets)
 
+## Education, Training, Certifications
+* [Treehouse](https://www.teamtreehouse.com) Front End Web Development Track Certificate
+* [SoloLearn](https://www.sololearn.com) HTML, CSS, and JavaScript fundamentals Certificates
+* Apple Swift Playgrounds
 
 ## Welcome to GitHub Pages
 
