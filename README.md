@@ -9,6 +9,7 @@
 
 ## Education, Training, Certifications
 * [Treehouse](https://www.teamtreehouse.com) Front End Web Development Track Certificate
+* ![Image](media/treehouse-webdev-track-completion.jpg)
 * [SoloLearn](https://www.sololearn.com) [HTML](https://peterplays.github.io/media/HTML-Certificate-SoloLearn.pdf), [CSS](https://peterplays.github.io/media/CSS-Certification-SoloLearn.pdf), and JavaScript fundamentals Certificates
 * ![Image](media/CSS Certification SoloLearn.pdf)
 * ![Image](media/CSS-Certification-SoloLearn.pdf)
