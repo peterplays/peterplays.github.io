@@ -7,6 +7,11 @@
 * [Hair Stylist Portfolio Site](https://peterplays.github.io/Hairstylist)
 * [Coding Cheat Sheets](https://peterplays.github.io/cheatsheets)
 
+## [Gists/Cheatsheets](https://gist.github.com/peterplays)
+* [Console Foundations](https://gist.github.com/peterplays/ec41c0c2a3cbead88a1dcfaf1c48e30d)
+* [MongoDB](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+* 
+
 ## Education, Training, Certifications
 * [Treehouse](https://www.teamtreehouse.com) Front End Web Development Track Certificate
 * ![Image](media/treehouse-webdev-track-completion.jpg)
