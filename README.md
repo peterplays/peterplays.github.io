@@ -48,4 +48,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Test Section
 
-This is a test section in my local clone
+This is a test section in my local clone.
+
+### Another Test Section
+
+Added another test section to practice pushing to remote via command line.
