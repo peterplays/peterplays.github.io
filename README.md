@@ -13,6 +13,8 @@
 * 
 
 ## Education, Training, Certifications
+* [Google IT Support Specialist Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+* [!Image](media/Coursera-Google-IT-Support-Certificate.pdf)
 * [Treehouse](https://www.teamtreehouse.com) Front End Web Development Track Certificate
 * ![Image](media/treehouse-webdev-track-completion.jpg)
 * [SoloLearn](https://www.sololearn.com) [HTML](https://peterplays.github.io/media/HTML-Certificate-SoloLearn.pdf), [CSS](https://peterplays.github.io/media/CSS-Certification-SoloLearn.pdf), and JavaScript fundamentals Certificates
