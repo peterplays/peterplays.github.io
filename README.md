@@ -1,6 +1,6 @@
 # Projects
 * [Silas Web](https://peterplays.github.io/silas-website)
-* [Silas Math](https://peterplays.github.io/silas-math)
+* [Silas Subtraction](https://peterplays.github.io/silas-subtraction)
 * [Spanish Flashcards](https://peterplays.github.io/Spanish-Flashcards)
 * [Workout Generator](https://peterplays.github.io/Workout-Generator)
 * [Mondrian CSS Grid](https://peterplays.github.io/Mondrian-CSS-Grid)
